@@ -1,2 +1,2 @@
 # MEIO
-Modelos Estocásticos de Investigação Operacional
+Projeto de Modelos Estocásticos de Investigação Operacional
