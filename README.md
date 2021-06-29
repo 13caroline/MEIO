@@ -13,5 +13,6 @@ Inventory management problem through a simulation of a policy (s,S). ([Technical
 | [Carolina Cunha](https://github.com/13caroline)  	|
 | [Jaime Leite](https://github.com/jaimeleite)      	|
 | [João Pimentel](https://github.com/citoplasme) 	|
-<br>
+
+
 > <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" > University of Minho, Software Engineering (3rd Year).
