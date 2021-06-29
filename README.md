@@ -1,13 +1,17 @@
-# Modelos Estocásticos de Investigação Operacional
+# Stochastic Operational Research Models
 
-__3º ano__
 
-Problema de Gestão de Inventários através de uma simulação de uma política (s,S). 
+Inventory management problem through a simulation of a policy (s,S). ([Technical report](https://github.com/13caroline/inventory-management/blob/master/Relat%C3%B3rio/MEIO.pdf))
 
-**Palavras-chave**: gestão de stocks; previsão; modelação analítica; simulação discreta de eventos.
+**Keywords**: Stocks management; prediction; analytical modeling; discrete event simulation.
 
-# Entrega do Projeto
+## Collaborators
 
-24 de abril de 2019
+| Name            	|
+|-----------------	|
+| [Bruno Veloso](https://github.com/brunocv)                 |
+| [Carolina Cunha](https://github.com/13caroline)  	|
+| [Jaime Leite](https://github.com/jaimeleite)      	|
+| [João Pimentel](https://github.com/citoplasme) 	|
 
-<img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" >
+> <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" > University of Minho, Software Engineering (3rd Year).
